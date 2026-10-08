@@ -1,0 +1,8 @@
+# Contiene usuario y contraseña de la base de datos: nunca subirlo
+config/db.php
+
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
